@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+echo "Entrez un nombre :"
+read nb
+echo Le carre de $nb est : "$(($nb * $nb))"
+echo "The End of the worst project of my life !"
